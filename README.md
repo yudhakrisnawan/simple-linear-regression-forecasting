@@ -1,4 +1,4 @@
-# simple-linear-regression-forecasting
+# Simple Linear Regression Forecasting
 
-Username: yudha
-Password: yudha
+**Username: yudha
+**Password: yudha
